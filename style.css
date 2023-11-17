@@ -1,0 +1,9 @@
+body{
+  text-align: center;
+}
+#clock{
+  color:black;
+  margin-top: 30vh;
+  font-weight: bold;
+  font-size: 20vh;
+}
